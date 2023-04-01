@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://cdn.imgbin.com/7/9/13/imgbin-jessie-toy-story-sheriff-woody-buzz-lightyear-andy-gudi-jessy-of-toy-story-8s4vJHkX2hW8PscKfXiBuVppQ.jpg",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "Lotso",
+      "image": "https://i.etsystatic.com/21091952/r/il/609845/3810680046/il_fullxfull.3810680046_aayg.jpg",
+      "likes": 2,
+      "id": 10
     }
   ]
 }
